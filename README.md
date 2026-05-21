@@ -1,12 +1,16 @@
 # seminaire-labo
 Support de présentation de mon séminaire de recherche (2026).
 
-* Pour afficher le diaporama :
+## Afficher le diaporama
 
     pixi init
     pixi shell
     voila --template=reveal slideshow.ipynb
 
-* Pour modifier les diapos :
+## Modifier les diapos
 
     jupyter-lab
+
+## Références
+
+* https://github.com/mkcor/repro-tgmm
