@@ -11,6 +11,10 @@ Support de présentation de mon séminaire de recherche (2026).
 
     jupyter-lab
 
+## Convertir les diapos en HTML
+
+    jupyter nbconvert --to html --template reveal slideshow.ipynb
+
 ## Références
 
 * https://github.com/mkcor/repro-tgmm
